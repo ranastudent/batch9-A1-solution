@@ -25,17 +25,15 @@ body {
       border-radius: 16px;
       background-blend-mode: overlay;
       border-style: none;
-
-}
-
-.banner-content {
       display: flex;
       flex-direction: column;
       height: 600px;
       justify-content: center;
       align-items: center;
       text-align: center;
+
 }
+
 
 .banner-content p {
       color: rgb(255, 255, 255);
